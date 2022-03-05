@@ -7,9 +7,9 @@ int LED2green= 5;
 int LED2yellow= 6;
 int LED2red= 7;
 bool estatActual1=0;
-bool estatAnterior1=0;
+bool estatAnterior1=0; //Després no s'utilitza 
 bool estatActual2=0;
-bool estatAnterior2=0;
+bool estatAnterior2=0; //Després no s'utilitza
 int pulsacions=1;
 
 void setup() {
